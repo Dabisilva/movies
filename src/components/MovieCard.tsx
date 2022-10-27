@@ -8,7 +8,7 @@ interface MovieCardsProps {
   data: MovieProps;
 }
 
-const MovieCard = React.forwardRef(({ data }: MovieCardsProps, ref) => {
+const MovieCard = React.forwardRef(({ data }: MovieCardsProps, ref: any) => {
   const MovieBody = () => (
     <>
       <div className="movie-card">
