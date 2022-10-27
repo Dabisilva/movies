@@ -4,7 +4,7 @@
 
 ### Click <a href="https://movies-umber.vercel.app/" target="_blank">here<a/> to see the website
 
-#### to run this project is very simple. If you have npm or yarn installed, use this commads
+#### to run this project is very simple. If you have npm or yarn installed, use this commands
 
 ```bash
 npm run dev
